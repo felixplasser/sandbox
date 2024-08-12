@@ -13,14 +13,20 @@ def dong(n):
 
 def felix(n):
     print("This is Felix' code!!")
+    print("And it is now even better")
+    a = 1
+    b = 1
     for i in range(n):
-        print(i)
+        c = a+b
+        print(c)
+        a = b
+        b = c
 
 def kenny(n):
     print(n**n)
 
 if __name__=='__main__':
-    n = 3
+    n = 10
     james(n)
     umatur(n)
     dong(n)
