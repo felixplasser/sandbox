@@ -12,3 +12,6 @@ def dong(n):
 def felix(n):
     for i in range(n):
         print(i)
+
+def kenny(n):
+    print(n**n)
