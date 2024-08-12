@@ -5,7 +5,7 @@ def james(n):
 
 def umatur(n):
     pass
-
+    print = n+3
 def dong(n):
     pass
 
