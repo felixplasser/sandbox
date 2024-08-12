@@ -6,7 +6,7 @@ def james(n):
 
 def umatur(n):
     print(n+3)
-
+    print(n+4-5*5)
 def dong(n):
     print("Dong here")
 
