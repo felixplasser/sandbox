@@ -2,6 +2,7 @@
 
 def james(n):
     print('This is James T')
+    print('Does this work')
 
 
 def umatur(n):
@@ -21,9 +22,14 @@ def felix(n):
         a = b
         b = c
 
+def kenny(n):
+    print(n**n)
+
 if __name__=='__main__':
     n = 10
     james(n)
     umatur(n)
     dong(n)
     felix(n)
+    kenny(n)
+
