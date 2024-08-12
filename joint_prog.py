@@ -9,6 +9,7 @@ def umatur(n):
 
 def dong(n):
     print("Dong here")
+    print("Hello")
 
 def felix(n):
     print("This is Felix' code!!")
