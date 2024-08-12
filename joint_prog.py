@@ -8,7 +8,7 @@ def umatur(n):
     print(n+3)
 
 def dong(n):
-    pass
+    print("Dong here")
 
 def felix(n):
     print("This is Felix' code!!")
