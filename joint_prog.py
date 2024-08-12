@@ -7,7 +7,7 @@ def umatur(n):
     pass
 
 def dong(n):
-    pass
+    print("Dong here")
 
 def felix(n):
     for i in range(n):
