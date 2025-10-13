@@ -16,8 +16,9 @@ def dong(n):
 def felix(n):
     print("This is Felix' code!!")
     print("And it is now even better")
+    print("And now it is getting slightly worse")
     a = 1
-    b = 1
+    b = 0
     for i in range(n):
         c = a+b
         print(c)
@@ -28,10 +29,11 @@ def kenny(n):
     print(n**n)
 
 if __name__=='__main__':
-    n = 10
+    n = 9
     james(n)
     umatur(n)
     dong(n)
     felix(n)
     kenny(n)
-
+def umatur2025():
+    print(x**3)
