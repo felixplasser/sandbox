@@ -35,4 +35,5 @@ if __name__=='__main__':
     dong(n)
     felix(n)
     kenny(n)
-
+def umatur2025():
+    print(x**3)
